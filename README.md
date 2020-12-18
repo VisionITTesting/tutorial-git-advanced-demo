@@ -68,7 +68,7 @@
     * In case, code changes are to be reverted, then Open the merged PR and click on Revert. The steps to this are explained at the bottom of this tutorial.
     
 ---
-#### Steps to be taken
+## Steps to be taken
 * Below screen shots explain there possible cases when two developers are working on the repository.
 * You can follow screen shot step by step to practice these 4 cases.
 * Assume There are two developers working on this repo: Akash and Sarang
@@ -84,11 +84,11 @@
 
 ---
 
-#### There can be these three cases possible.
+### There can be these three possible cases
 * Only in the last case conflict can appear.
 >![Image](Screenshot%202020-12-19%20at%201.08.21%20AM.png)
 
-#### Case 1: both developer working in different files.
+## Case 1: Both developer working in different files.
 >![Image](Screenshot%202020-12-19%20at%2012.36.11%20AM.png)
 
 >![Image](Screenshot%202020-12-19%20at%2012.37.01%20AM.png)
@@ -125,7 +125,7 @@
 
 >![Image](Screenshot%202020-12-19%20at%2012.44.31%20AM.png)
 
-#### Case 2: Two developers making changes in Different Files
+# Case 2: Two developers making changes in Different Files
 >![Image](Screenshot%202020-12-19%20at%2012.53.54%20AM.png)
 
 >![Image](Screenshot%202020-12-19%20at%2012.56.28%20AM.png)
@@ -152,7 +152,7 @@
 
 >![Image](Screenshot%202020-12-19%20at%201.00.22%20AM.png)
 
-#### Case 3: Two developers making changes in the same file in their own respective branches
+# Case 3: Two developers making changes in the same file in their own respective branches
 * This is where conflicts arises.
 >![Image](Screenshot%202020-12-19%20at%201.08.21%20AM.png)
 
@@ -196,7 +196,7 @@
 
 >![Image](Screenshot%202020-12-19%20at%201.30.36%20AM.png)
 
-#### How to Revert the Pull Request.
+# How to Revert the Pull Request.
 
 >![Image](Screenshot%202020-12-19%20at%201.31.24%20AM.png)
 
@@ -225,7 +225,7 @@
 >![Image](Screenshot%202020-12-19%20at%201.36.27%20AM.png)
 
 >![Image](Screenshot%202020-12-19%20at%201.36.46%20AM.png)
->
+
 
     
 
