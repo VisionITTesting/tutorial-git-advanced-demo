@@ -14,4 +14,8 @@ public class TestClass1 {
         System.out.println("I am test method 1");
     }
 
+    //Adding Test Method 4-Added By Akash - Case - 1
+    public void test_04(){
+        System.out.println("I am test method 4");
+    }
 }
