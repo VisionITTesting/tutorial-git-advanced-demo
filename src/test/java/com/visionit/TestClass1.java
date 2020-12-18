@@ -18,4 +18,9 @@ public class TestClass1 {
     public void test_04(){
         System.out.println("I am test method 4");
     }
+    
+    //Branch Change: case-2-changing-test-file-1-by-akash
+    public void test_05(){
+        System.out.println("I am test method 5");
+    }
 }
